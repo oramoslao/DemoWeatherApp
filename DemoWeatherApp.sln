@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWeatherApp", "DemoWeatherApp\DemoWeatherApp.csproj", "{8E4BE915-B484-4345-B6BF-8BD4730BD09F}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DemoWeatherApp.Setup", "DemoWeatherApp.Setup\DemoWeatherApp.Setup.vdproj", "{FD53A139-B9B4-4AEC-80AB-068B99F57D2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{8E4BE915-B484-4345-B6BF-8BD4730BD09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E4BE915-B484-4345-B6BF-8BD4730BD09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E4BE915-B484-4345-B6BF-8BD4730BD09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD53A139-B9B4-4AEC-80AB-068B99F57D2D}.Debug|Any CPU.ActiveCfg = Debug
+		{FD53A139-B9B4-4AEC-80AB-068B99F57D2D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
