@@ -266,9 +266,9 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:DemoWeather"
+        "ProductName" = "8:Demo Weather"
         "ProductCode" = "8:{E53F4E50-FDCE-4464-962A-E7FF07BA61A3}"
-        "PackageCode" = "8:{6AAEA54A-4DE1-4121-9492-7C5075A7301F}"
+        "PackageCode" = "8:{BC00EC7F-4CA1-4128-8801-AE8F425DFD21}"
         "UpgradeCode" = "8:{1CD3AD40-661E-4947-93F7-D2110DEBCAC0}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -276,12 +276,12 @@
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:ORL Inc"
+        "Manufacturer" = "8:Kriptos Inc"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
         "Title" = "8:Demo Weather"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:ORL Inc"
+        "ARPCONTACT" = "8:Kriptos Inc"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:Demo Weather App"
         "ARPURLINFOABOUT" = "8:"
@@ -390,7 +390,7 @@
         {
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_117D0A05E68E45CEB050DB20363BCBC4"
             {
-            "Name" = "8:Weather"
+            "Name" = "8:Demo Weather"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -404,7 +404,7 @@
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_958BE3D4487442698DF39F75217ECFD4"
             {
-            "Name" = "8:Weather"
+            "Name" = "8:Demo Weather"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"

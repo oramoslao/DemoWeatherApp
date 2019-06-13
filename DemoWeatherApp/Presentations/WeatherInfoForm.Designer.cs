@@ -158,7 +158,7 @@
             this.MaximizeBox = false;
             this.Name = "WeatherInfoForm";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
-            this.Text = "Weather";
+            this.Text = "Demo Weather";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
