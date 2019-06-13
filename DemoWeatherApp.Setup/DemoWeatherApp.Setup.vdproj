@@ -267,8 +267,8 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Demo Weather"
-        "ProductCode" = "8:{E53F4E50-FDCE-4464-962A-E7FF07BA61A3}"
-        "PackageCode" = "8:{BC00EC7F-4CA1-4128-8801-AE8F425DFD21}"
+        "ProductCode" = "8:{E02CBD04-F377-4D72-8935-3AA9AD001B7C}"
+        "PackageCode" = "8:{B4350AFA-7917-4038-BDFD-192D9DE045FB}"
         "UpgradeCode" = "8:{1CD3AD40-661E-4947-93F7-D2110DEBCAC0}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
